@@ -10,7 +10,7 @@ How it Works:
 1.Calculate the hash MD5 of the file.
 2.Rename the file with the first 4 characters of HASH-MD5
 sample-> from  \myfile.exe         
-                              hash-MD5 = 1A07BCDEF...
+               hash-MD5 = 1A07BCDEF...
          to    \1A07-myfile.exe  
          
 IMPORTANT:
